@@ -12,4 +12,4 @@ body:
     attributes:
       label: Understand?
       options:
-        - "Yes"
+        - 'Yes'
