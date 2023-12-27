@@ -1,5 +1,5 @@
 name: Troubleshooting Help
-description: If you need troubleshooting help please use the troubleshooting form here: https://github.com/turtlebot/turtlebot4/issues/new/choose.
+description: "If you need troubleshooting help please use the troubleshooting form here: https://github.com/turtlebot/turtlebot4/issues/new/choose."
 labels: ["troubleshooting"]
 assignees:
   - hilary-luo
