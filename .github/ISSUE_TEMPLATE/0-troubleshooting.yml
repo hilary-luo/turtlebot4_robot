@@ -7,3 +7,9 @@ body:
   - type: markdown
     attributes:
       value: "If you need troubleshooting help please use the troubleshooting form here: https://github.com/turtlebot/turtlebot4/issues/new/choose."
+  - type: dropdown
+    id: value
+    attributes:
+      label: Understand?
+      options:
+        - Yes
